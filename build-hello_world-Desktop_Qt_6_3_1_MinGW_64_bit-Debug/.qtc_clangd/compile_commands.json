@@ -66,9 +66,9 @@
         "-ferror-limit=1000",
         "-x",
         "c++",
-        "C:\\Users\\manda\\OneDrive\\Documents\\Projects\\2022\\qt\\hello_world\\hello_world\\hello_world.cpp"
+        "C:\\Users\\manda\\OneDrive\\Documents\\Projects\\2022\\qt\\hello_world\\hello_world\\main.cpp"
     ],
     "directory": "C:/Users/manda/OneDrive/Documents/Projects/2022/qt/hello_world/build-hello_world-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qtc_clangd",
-    "file": "C:/Users/manda/OneDrive/Documents/Projects/2022/qt/hello_world/hello_world/hello_world.cpp"
+    "file": "C:/Users/manda/OneDrive/Documents/Projects/2022/qt/hello_world/hello_world/main.cpp"
 }
 ]
