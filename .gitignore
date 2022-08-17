@@ -1,0 +1,11 @@
+
+*.idx
+build-hello_world-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/Makefile
+build-hello_world-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/Makefile.Release
+build-hello_world-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/Makefile.Debug
+build-hello_world-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qmake.stash
+build-hello_world-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qtc_clangd/.cache/clangd/index/main.cpp.974553B9D5D506E4.idx
+build-hello_world-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/debug/main.o
+build-hello_world-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/debug/name_of_the_app.exe
+build-hello_world-Desktop_Qt_6_3_1_MinGW_64_bit-Debug/.qtc_clangd/.cache/clangd/index/main.cpp.974553B9D5D506E4.idx
+*.idx
